@@ -26,4 +26,5 @@ My name is Grant Smith, and I am a Software Developer at Lumen Technologies. My 
 ![](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) <br>
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) <br>
 ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) <br>
-![](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
+![](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16) <br>
+[![My Skills](https://skillicons.dev/icons?i=django,heroku)](https://skillicons.dev)
