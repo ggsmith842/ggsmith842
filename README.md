@@ -20,11 +20,15 @@ My name is Grant Smith, and I am a Software Developer at Lumen Technologies. My 
 **You can find me on** <br> ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) <br>www.linkedin.com/in/grant-smith-0842. 
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) <br>
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) <br>
-![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) <br>
-![](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) <br>
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) <br>
-![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) <br>
+
+### Data Science Stack
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
+![](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) 
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16) <br>
+
+### Web Development Stack
 [![My Skills](https://skillicons.dev/icons?i=django,heroku)](https://skillicons.dev)
