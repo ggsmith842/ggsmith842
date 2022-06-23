@@ -31,4 +31,4 @@ My name is Grant Smith, and I am a Software Developer at Lumen Technologies. My 
 ![](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16) <br>
 
 ### Web Development Stack
-[![My Skills](https://skillicons.dev/icons?i=django,heroku)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,python,django,javascript,bootstrap,css,heroku)](https://skillicons.dev)
