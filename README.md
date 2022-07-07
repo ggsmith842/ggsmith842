@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 My name is Grant Smith, and I am a Software Developer at Lumen Technologies. My background is in statistics (UCD) and business analytics (USC). <br>
 ##
-**You can find me on** <br> ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-<br>www.linkedin.com/in/grant-smith-0842. 
+**You can find me on** <br> [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/grant-smith-0842. )
+<br>
 
 ## 🔧 Technologies & Tools
 
@@ -33,3 +33,6 @@ My name is Grant Smith, and I am a Software Developer at Lumen Technologies. My 
 
 ### Web Development Stack
 [![My Skills](https://skillicons.dev/icons?i=postgres,python,django,javascript,bootstrap,css,heroku)](https://skillicons.dev)
+
+**Webiste built using Django**<br>
+[Articulate-Badger Blog](https://articulate-badger.herokuapp.com)
