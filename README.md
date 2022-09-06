@@ -36,5 +36,8 @@ www.linkedin.com/in/grant-smith-0842
 ### Web Development Stack
 [![My Skills](https://skillicons.dev/icons?i=postgres,python,django,javascript,bootstrap,css,heroku)](https://skillicons.dev)
 
+### API Development
+[![My Skills](https://skillicons.dev/icons?i=linux,python,fastapi,docker,heroku)](https://skillicons.dev)
+
 **Webiste built using Django**<br>
 [Articulate-Badger Blog](https://articulate-badger.herokuapp.com)
