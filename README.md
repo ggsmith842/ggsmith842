@@ -39,5 +39,3 @@ www.linkedin.com/in/grant-smith-0842
 ### API Development
 [![My Skills](https://skillicons.dev/icons?i=linux,python,fastapi,docker,heroku)](https://skillicons.dev)
 
-**Webiste built using Django**<br>
-[Articulate-Badger Blog](https://articulate-badger.herokuapp.com)
