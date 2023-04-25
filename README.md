@@ -1,4 +1,15 @@
 ### Hi there 👋
+<p align="center">
+<a href="https://github.com/drkostas">
+    <img src="https://readme-typing-svg.demolab.com?font=Calbri&size=20&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Grant+Smith;Developer+%7C+Statistics+%7C+Data+Quality;Business+Analytics+%7C+Big+Data+%7C+NLP" alt="Typing SVG" />
+</a>
+  <br/>
+  <br/>
+  
+  <a href="https://www.linkedin.com/in/grant-smith-0842/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+  </p>
 
 <!--
 **ggsmith842/ggsmith842** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -53,4 +64,18 @@ You can find me on <br> [![name](https://img.shields.io/badge/LinkedIn-0077B5?st
 
 ### API Development
 [![My Skills](https://skillicons.dev/icons?i=linux,python,fastapi,docker,heroku)](https://skillicons.dev)
+
+
+
+<details>
+<summary>📈 Stats</summary>
+<br>
+My Github Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ggsmith842&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ggsmith842&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ggsmith842&theme=dracula)
+
+</details>
 
