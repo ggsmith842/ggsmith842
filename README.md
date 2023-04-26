@@ -9,6 +9,10 @@
   <a href="https://www.linkedin.com/in/grant-smith-0842/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
+    <br/>
+    <a href="https://github.com/ggsmith842">
+    <img src="https://github-stats-alpha.vercel.app/api?username=ggsmith842&cc=D8DEE9&ic=5E81AC">
+</a>
   </p>
 
 <!--
@@ -35,6 +39,21 @@ My name is Grant Smith, and I am a Software Developer at Lumen Technologies. My 
 
 ### Some Personal & Academic Projects I have worked on:
 
+
+<table>
+<tr align="center"><th>Machine Learning </th></tr>
+
+|Title | Stars | Technologies|
+|--|--|--|
+| [HackDavis 2020](https://github.com/ggsmith842/HackDavis20) | <img alt="Stars" src="https://img.shields.io/github/forks/ggsmith842/HackDavis20?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)|
+| [Crypto Analysis](https://github.com/ggsmith842/CIC-Analysis) | <img alt="Stars" src="https://img.shields.io/github/stars/ggsmith842/CIC-Analysis?style=flat-square&labelColor=black"/> | ![Julia](https://img.shields.io/badge/Julia-black?style=flat-square&logo=julia) |
+<!-- | [Bert Rinehart Novels](https://github.com/drkostas/Bert-Rinehart-Novels) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Bert-Question-Answering?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![Spacy](https://img.shields.io/badge/Spacy-black?style=flat-square&logo=spacy)|
+| [Car Accidents Pred.](https://github.com/drkostas/accident-severity-prediction) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/accident-severity-prediction?style=flat-square&labelColor=black"/> | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy)| -->
+
+
+</td><td>
+    </table>
+
 1. Sentiment Analysis website using FastAPI
 2. NLP Classificaiton for a Clothing Subscription start up
 3. Cryptocurrency analysis using Julia
@@ -43,9 +62,6 @@ My name is Grant Smith, and I am a Software Developer at Lumen Technologies. My 
 
 
 ##
-
-You can find me on <br> [![name](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/grant-smith-0842)<br>
-
 <br>
 
 ## 🔧 Technologies & Tools
