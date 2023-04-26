@@ -41,7 +41,7 @@ My name is Grant Smith, and I am a Software Developer at Lumen Technologies. My 
 
 
 <table>
-<tr align="center"><th>Machine Learning </th></tr>
+<tr align="center"><th>My Favorite Repos </th></tr>
 
 |Title | Stars | Technologies|
 |--|--|--|
