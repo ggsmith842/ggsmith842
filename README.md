@@ -6,7 +6,7 @@
   <br/>
   <br/>
   
-  <a href="www.linkedin.com/in/ggosmith">
+  <a href="https://www.linkedin.com/in/ggosmith/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
     <br/>
