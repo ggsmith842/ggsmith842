@@ -61,7 +61,7 @@ My name is Grant Smith, and I am a Software Developer at Lumen Technologies. My 
 
 |Title | Description | Technologies|
 |--|--|--|
-| Enterprise Data Quality | Lead developer for Lumen's Cloud Data Quality Framework and implementation strategy | ![INFA](https://img.shields.io/badge/Informatica-white?style=flat-square&logo=informatica) ![ORCL](https://img.shields.io/badge/Oracle-white?style=flat-square&logo=oracle&logoColor=black) ![PowerBI](https://img.shields.io/badge/PowerBI-white?style=flat-square&logo=powerbi)|
+| Enterprise Data Quality | Lead developer for Lumen's Cloud Data Quality Framework and implementation strategy | ![INFA](https://img.shields.io/badge/Informatica-white?style=flat-square&logo=informatica) ![ORCL](https://img.shields.io/badge/Oracle-white?style=flat-square&logo=oracle&logoColor=black) ![PowerBI](https://img.shields.io/badge/PowerBI-white?style=flat-square&logo=powerbi) ![PowerBI](https://img.shields.io/badge/Redhat-white?style=flat-square&logo=redhat&logoColor=red)|
 | Lumen Data Marketplace | Developer & catalog admin for metadata managment and data governance activity on IBM Cloudpak for Data. | ![IBMCloud](https://img.shields.io/badge/IBM-white?style=flat-square&logo=ibmcloud&logoColor=black) ![Python](https://img.shields.io/badge/Python-white?style=flat-square&logo=python) ![Postman](https://img.shields.io/badge/Postman-white?style=flat-square&logo=postman) |
 
 
