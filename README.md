@@ -34,12 +34,11 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-My name is Grant Smith, and I am a Software Developer at Lumen Technologies. My background is in statistics (BS-UCD) and business analytics (MS-USC). I spent 4 years in the Marine Corps as a radar operator and was also a graduate-level teaching assistant for Python in Data Science at the Univeristy of Southern California. <br>
+My name is Grant, and I am a Senior Software Developer at Lumen Technologies. My background is in statistics and business analytics. I spent 4 years in the Marine Corps as a radar operator and was also a graduate-level teaching assistant for Python in Data Science at the Univeristy of Southern California. <br>
 
-- 🔭 Currently I work on data integration and data quality projects at Lumen using Informatica's Data Managment Cloud. I've done Python development to support our data cataloguing and metadata managment efforts, and I was highly involved in migrating our code to GitHub🙂
+- 🔭 Currently I work on data integration and data quality projects at Lumen using Informatica's Data Managment Cloud. I've done Python development to support our data cataloguing and metadata managment efforts, and I was highly involved in migrating our code to GitHub🙂 Some of my other projects have included ETL and python scripts to automate data quality validation and remediation. 
 
-- 🌱 This past year I've been learning more web development with Python frameworks Django and FastAPI. This year I want to focus more on JVM-based languages. I have done a little work with Java and Kotlin standing up simple APIs, but want to work more on creating fully-fledged applications. 
-
+- 🌱 Lately I've been doing more finance related projects with a focus on analysis and automation. I like exploring new languages subject matters. This year I plan to learn more functional programming and ways to automate different trading strategies for finance. 
 
 ### Some Personal & Academic Projects I have worked on:
 
