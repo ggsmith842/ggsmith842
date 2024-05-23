@@ -1,7 +1,7 @@
 
 <p align="center">
 <a href="https://github.com/drkostas">
-    <img src="https://readme-typing-svg.demolab.com?font=Calbri&size=20&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Grant+Smith;Developer+%7C+Statistics+%7C+Data+Quality;Business+Analytics+%7C+Big+Data+%7C+NLP" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Calbri&size=20&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Grant+Smith;Developer+%7C+Statistics+%7C+Data+Quality;+%7C+Big+Data+Analytics+%7C+Data+Privacy+%7C+NLP" alt="Typing SVG" />
 </a>
   <br/>
   <br/>
