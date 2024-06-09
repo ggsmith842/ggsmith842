@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-I am a data engineer at Lumen Technologies. My background is in statistics and business analytics and I really enjoy learning about the fields of probability and data privacy. I spent 4 years in the Marine Corps as a radar operator and was also a graduate-level teaching assistant for Python in Data Science at the Univeristy of Southern California. <br>
+I am a Software Developer/Data Engineer at Lumen Technologies. My background is in statistics and business analytics and I really enjoy learning about the fields of probability and data privacy. I spent 4 years in the Marine Corps as a radar operator and was also a graduate-level teaching assistant for Python in Data Science at the Univeristy of Southern California. <br>
 
 - 🔭 Currently I work on data integration and data quality projects at Lumen using Informatica's Data Managment Cloud. I've done Python development to support our data cataloguing and metadata managment efforts, and I was highly involved in migrating our code to GitHub! 🙂 Some of my other projects have included ETL and python scripts to automate data quality validation and remediation. 
 
