@@ -39,7 +39,7 @@ I am a Software Developer/Data Engineer at Lumen Technologies. My background is 
 
 - 🔭 Currently I work on data integration and data quality projects at Lumen using Informatica's Data Managment Cloud. I've done Python development to support our data cataloguing and metadata managment efforts, and I was highly involved in migrating our code to GitHub! 🙂 Some of my other projects have included ETL and python scripts to automate data quality validation and remediation. 
 
-- 🌱 Lately I've been doing more finance related projects with a focus on analysis and automation. I like exploring new languages subject matters. This year I plan to learn more functional programming and ways to automate different trading strategies for finance. Currently, I am working on some cryptography programming in Ocaml, and developing a library of Nonparametric statistics tools for the ocaml ecosystem. 
+- 🌱 Lately I've been doing more finance related projects with a focus on analysis and automation. I like exploring new languages and want to get more involved in research and open source contributing. Currently, I am working on some cryptography programming in Ocaml, and trying some blockchain development. 
 
 ### Some Personal & Academic Projects I have worked on:
 
